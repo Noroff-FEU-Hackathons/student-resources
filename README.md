@@ -15,7 +15,7 @@ A list of resources gathered by students.
 
 ## Programming:
 
-[Git](./programming/git.md)
+[git](./programming/git.md)
 
 [VS Code / Editors / IDEs](./programming/vs-code-editors-ides.md)
 
@@ -23,23 +23,23 @@ A list of resources gathered by students.
 
 ## Front-end:
 
-[HTML](./programming/git.md)
+[HTML](./front-end/html.md)
 
-[CSS](./programming/git.md)
+[CSS](./front-end/css.md)
 
-[JavaScript](./programming/git.md)
+[JavaScript](./front-end/javascript.md)
 
 ## Front-end Frameworks:
 
-[React](./programming/git.md)
+[React](./front-end-frameworks/react.md)
 
 ## Backend:
 
-[Node.js & Express](./programming/git.md)
+[Node.js & Express](./backend/node-js-express.md)
 
 ## Databases:
 
-[MongoDB](./programming/git.md)
+[MongoDB](./databases/mongodb.md)
 
 # Contributing
 
