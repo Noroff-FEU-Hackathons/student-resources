@@ -86,11 +86,11 @@
  -    /proc/stat –  It displays the detailed statistics of the current system.
  -    /proc/swaps –  It contains swap file information.
 
-### Version Information File:
+#### Version Information File:
 
     /version – It displays the Linux version information.
 
-### Log Files:
+#### Log Files:
 
     /var/log/lastlog – It stores user last login info.
     /var/log/messages – It has all the global system messages.
