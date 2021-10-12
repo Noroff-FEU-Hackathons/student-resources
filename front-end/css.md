@@ -1,12 +1,12 @@
 # CSS
 
-Description for this category will go here.
+A list of links about Cascading Stylesheets
 
-### 1. Basic example:
+### 1. CSS Tricks - Flexbox:
 
-https://www.google.com/
+[https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-This is a basic example that is meant to show you how to layout your post. This is where the description goes.
+This is a great resource for learning Flexbox. It's very comprehensive and breaks down the parent styling and child styling using flexbox.
 
 ---
 
