@@ -2,11 +2,11 @@
 
 Description for this category will go here.
 
-### 1. Basic example:
+### 1. Console cheat sheet for Javascript:
 
-https://www.google.com/
+[https://levelup.gitconnected.com/console-cheat-sheet-for-javascript-developers-21f0c49604d4](https://levelup.gitconnected.com/console-cheat-sheet-for-javascript-developers-21f0c49604d4)
 
-This is a basic example that is meant to show you how to layout your post. This is where the description goes.
+This cheat sheet will show how to use the console in javascript for debbuging more effective. 
 
 ---
 
