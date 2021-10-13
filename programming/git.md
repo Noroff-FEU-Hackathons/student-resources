@@ -12,4 +12,12 @@ This is an open source educational resource that walks a user through the proces
 
 ---
 
+### 2. How to update a forked repo with Git rebase
+
+[https://medium.com/@topspinj/how-to-git-rebase-into-a-forked-repo-c9f05e821c8a](https://medium.com/@topspinj/how-to-git-rebase-into-a-forked-repo-c9f05e821c8a)
+
+This article shows how to update a forked repo with git rebase and keep your fork repo updated with the remote repository.
+
+---
+
 [Go Back](../README.md)
