@@ -10,4 +10,13 @@ This cheat sheet will show how to use the console in javascript for debbuging mo
 
 ---
 
+### 2. JavaScript async and await in loops:
+
+[https://zellwk.com/blog/async-await-in-loops/](https://zellwk.com/blog/async-await-in-loops/)
+
+Basic async and await is simple. Things get a bit more complicated when you try to use await in loops. 
+In this article, I want to share some gotchas to watch out for if you intend to use await in loops.
+
+---
+
 [Go Back](../README.md)
