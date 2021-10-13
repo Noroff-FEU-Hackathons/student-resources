@@ -20,4 +20,12 @@ This article shows how to update a forked repo with git rebase and keep your for
 
 ---
 
+### 3. Rules to Git By
+
+[https://www.youtube.com/watch?v=yI0BtEzdGtw](https://www.youtube.com/watch?v=yI0BtEzdGtw)
+
+A higher level guide to git patterns and working with large projects.
+
+---
+
 [Go Back](../README.md)
