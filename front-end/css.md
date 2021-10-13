@@ -10,4 +10,12 @@ This is a great resource for learning Flexbox. It's very comprehensive and break
 
 ---
 
+### 2. CSS Gradient Background tool
+
+[https://cssgradient.io/](https://cssgradient.io/)
+
+CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.
+
+---
+
 [Go Back](../README.md)
