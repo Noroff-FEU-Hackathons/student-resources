@@ -37,6 +37,8 @@ A list of resources gathered by students.
 
 [Node.js & Express](./backend/node-js-express.md)
 
+[Spring Boot](./backend/springboot.md)
+
 ## Databases:
 
 [MongoDB](./databases/mongodb.md)
