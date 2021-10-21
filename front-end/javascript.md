@@ -19,4 +19,12 @@ In this article, I want to share some gotchas to watch out for if you intend to 
 
 ---
 
+### 3. Javascript projects for beginners: 
+
+[https://www.freecodecamp.org/news/javascript-projects-for-beginners/](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
+
+40 beginner-friendly javascript project ideas with guides on how to complete them.
+
+---
+
 [Go Back](../README.md)
