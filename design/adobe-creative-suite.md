@@ -2,11 +2,19 @@
 
 Description for this category will go here.
 
-### 1. Basic example:
+### 1. Adobe Color:
 
-https://www.google.com/
+https://color.adobe.com/create/color-wheel
 
-This is a basic example that is meant to show you how to layout your post. This is where the description goes.
+Create color themes, gradients and check accessibility online and add them directly to adobe cs libraries.
+
+---
+
+### 1. Free UI design kits for Adobe XD:
+
+https://www.xdguru.com/free-xd-ui-kits/
+
+UI kits packs that can be downloaded and used with Adobe XD.
 
 ---
 
