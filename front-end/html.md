@@ -1,12 +1,12 @@
 # HTML
 
-Description for this category will go here.
+A list of links about HTML
 
-### 1. Basic example:
+### 1. HTML Textarea Placeholder Not Showing:
 
-https://www.google.com/
+[https://exceptionshub.com/html5-textarea-placeholder-not-appearing.html](https://exceptionshub.com/html5-textarea-placeholder-not-appearing.html)
 
-This is a basic example that is meant to show you how to layout your post. This is where the description goes.
+This link provides some simple tips on how to get textarea placeholder to work if you find that it's not showing.
 
 ---
 
