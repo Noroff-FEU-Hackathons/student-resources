@@ -18,4 +18,10 @@ CSS Gradient is a happy little website and free tool that lets you create a grad
 
 ---
 
+### 3. Flexbox Playground
+
+[https://codepen.io/enxaneta/full/adLPwv](https://codepen.io/enxaneta/full/adLPwv)
+
+Interactive Flexbox properties display.
+
 [Go Back](../README.md)
